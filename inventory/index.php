@@ -4,7 +4,7 @@ $dashboard = new Dashboard();
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
     <meta charset="UTF-8">
     <title>Inventory Dashboard</title>
@@ -18,7 +18,7 @@ $dashboard = new Dashboard();
 <body>
     <h1>Inventory Dashboard</h1>
 
-    <h2>Stock Summary</h2>
+    <h2>Ringkasa Stock</h2>
     <table>
         <tr>
             <th>ID</th>
